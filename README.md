@@ -1,6 +1,6 @@
 # Adding widgets to the Lock Screen and watch faces
 
-Discover how to create widgets for iOS and WatchOS.
+Discover how to create iPhone Lock Screen widgets and watchOS complications with WidgetKit.
 
 ## Overview
 
