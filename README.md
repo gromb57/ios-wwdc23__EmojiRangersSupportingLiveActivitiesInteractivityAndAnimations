@@ -1,7 +1,11 @@
-# Adding widgets to the Lock Screen and watch faces
+# Emoji Rangers: Supporting Live Activities, interactivity, and animations
 
-Discover how to create iPhone Lock Screen widgets and watchOS complications with WidgetKit.
+Offer Live Activities, animate data updates, and add interactivity to widgets.
 
 ## Overview
 
-- Note: This sample code project is associated with WWDC22 session [10068: Complications and widgets: Reloaded](https://developer.apple.com/wwdc22/10050/).
+> Note: This sample code project is associated with WWDC23 sessions 
+10184: [Meet ActivityKit](https://developer.apple.com/wwdc23/10184/), 
+10185: [Update live activities with push notifications](https://developer.apple.com/wwdc23/10185/), 
+10027: [Bring widgets to new places](https://developer.apple.com/wwdc23/10027/), and
+ 10028: [Bring widgets to life](https://developer.apple.com/wwdc23/10028/).
