@@ -1,5 +1,7 @@
 # Emoji Rangers: Supporting Live Activities, interactivity, and animations
 
+[Source](https://developer.apple.com/documentation/widgetkit/emoji_rangers_supporting_live_activities_interactivity_and_animations)
+
 Offer Live Activities, animate data updates, and add interactivity to widgets.
 
 ## Overview
